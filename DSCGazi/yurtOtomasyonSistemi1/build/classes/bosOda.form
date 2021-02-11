@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="oda105" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda104" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda101" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda102" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda103" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="oda401" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda402" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda403" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda404" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="oda405" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="kat1oda1lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat1oda2lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat1oda3lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat1oda4lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat1oda5lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace pref="181" max="32767" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="oda201" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="kat2oda1lbl" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="oda202" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="kat2oda2lbl" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="oda203" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="kat2oda3lbl" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="oda204" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="kat2oda4lbl" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Group type="103" groupAlignment="1" attributes="0">
+                                                      <Component id="oda205" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="oda501" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="oda502" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="oda503" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="oda504" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="oda505" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="kat2oda5lbl" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="kat5oda1lbl" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="kat5oda2lbl" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="kat5oda3lbl" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="kat5oda4lbl" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="kat5oda5lbl" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="kat4oda5lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat4oda4lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat4oda3lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat4oda1lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="kat4oda2lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="oda605" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="oda604" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="oda603" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="kat6oda3lbl" min="-2" max="-2" attributes="0"/>
+                                      <Component id="kat6oda4lbl" min="-2" max="-2" attributes="0"/>
+                                      <Component id="kat6oda5lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="oda302" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="kat3oda2lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="oda301" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="kat3oda1lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="oda303" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="kat3oda3lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="oda304" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="kat3oda4lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="oda305" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="kat3oda5lbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="oda601" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="kat6oda1lbl" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="oda602" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="kat6oda2lbl" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="99" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="109" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="243" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda101" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda201" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda301" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat1oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat3oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat2oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda102" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda202" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda302" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat1oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat3oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat2oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda103" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda203" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda303" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat1oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat2oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat3oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda104" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda204" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda304" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat1oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat2oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat3oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda105" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda205" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda305" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat1oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat2oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat3oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda401" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda501" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda601" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat4oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat5oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat6oda1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda402" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda502" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda602" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat4oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat5oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat6oda2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda403" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda503" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda603" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat4oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat5oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat6oda3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda404" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda504" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda604" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat4oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat5oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat6oda4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="oda405" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda505" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="oda605" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat4oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat5oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="kat6oda5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="32" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Comic Sans MS" size="36" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="ODALAR"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Comic Sans MS" size="11" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="L&#xdc;TFEN SADECE BO&#x15e;  ODALARI SE&#xc7;&#x130;N&#x130;Z!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda101">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 101&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda101ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda105">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 105&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda105ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda102">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 102&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda102ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda103">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 103"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda103ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda104">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 104&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda104ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda202">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 202&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda202ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda201">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 201&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda201ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda203">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 203"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda203ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda204">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 204&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda204ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda205">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 205&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda205ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda305">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 305&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda305ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda304">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 304&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda304ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda303">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 303&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda303ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda302">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 302&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda302ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda301">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 301&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda301ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-4"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-6"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAT-5"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda402">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 402&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda402ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda403">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 403&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda403ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda404">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 404&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda404ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda405">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 405&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda405ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda401">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 401&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda401ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda501">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 501"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda501ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda502">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 502"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda502ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda503">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 503"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda503ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda504">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 504&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda504ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda505">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 505&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda505ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda601">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 601&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda601ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda602">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 602&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda602ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda603">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 603"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda603ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda604">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 604&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda604ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="oda605">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ODA 605&#xa;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oda605ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat1oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat1oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat1oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat1oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!&#xa;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat1oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat2oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!&#xa;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat2oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat2oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat2oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat2oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat3oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat3oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat3oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat3oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat3oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat4oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat4oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat4oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat4oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat4oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat5oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat5oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOLU!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat5oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat5oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat5oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat6oda1lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat6oda2lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat6oda3lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat6oda4lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kat6oda5lbl">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BO&#x15e;!"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/oda.png"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
